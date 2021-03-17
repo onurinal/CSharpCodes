@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Get Number and Sum of the Digits", "Get Number and Sum of the Digits.csproj", "{8C133BA7-1DAF-4593-B33B-099B419A6791}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Get Number and Display with its Reverse", "..\Get Number and Display with its Reverse\Get Number and Display with its Reverse.csproj", "{BCEBCD68-6FD5-4A15-9DA0-C1F81A0E234A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C133BA7-1DAF-4593-B33B-099B419A6791}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C133BA7-1DAF-4593-B33B-099B419A6791}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C133BA7-1DAF-4593-B33B-099B419A6791}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C133BA7-1DAF-4593-B33B-099B419A6791}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCEBCD68-6FD5-4A15-9DA0-C1F81A0E234A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCEBCD68-6FD5-4A15-9DA0-C1F81A0E234A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCEBCD68-6FD5-4A15-9DA0-C1F81A0E234A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCEBCD68-6FD5-4A15-9DA0-C1F81A0E234A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CF33A1A-6ECC-4D38-9238-431D94C84C22}
+	EndGlobalSection
+EndGlobal
