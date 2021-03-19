@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Compute Average for the Set of Values", "Compute Average for the Set of Values.csproj", "{B069DDFA-767C-4BC0-879C-C52C9472E846}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B069DDFA-767C-4BC0-879C-C52C9472E846}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B069DDFA-767C-4BC0-879C-C52C9472E846}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B069DDFA-767C-4BC0-879C-C52C9472E846}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B069DDFA-767C-4BC0-879C-C52C9472E846}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {780746CA-C059-4653-870C-F406A9D1D5F5}
+	EndGlobalSection
+EndGlobal
